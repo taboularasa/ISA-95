@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "00a0a68c38d98003",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffeb29f308ce5681",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "119673feb4c4616c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ISA-95 Roles vs Locations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ISA-95 Roles vs Locations"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a19eb3466564ef9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0bbe08b11996dea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2d435e2468dcf4f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4135f167ff4f2295",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3ddffc4d965d36f1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 323.5
+  },
+  "right": {
+    "id": "7b0e9d1c508b9205",
+    "type": "split",
+    "children": [
+      {
+        "id": "f99bf8bfb44a5214",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9ab6d908d014a23",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ISA-95-3 – Activity Model (P24).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for ISA-95-3 – Activity Model (P24)"
+            }
+          },
+          {
+            "id": "93397156a0dbee3d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ISA-95-3 – Activity Model (P24).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from ISA-95-3 – Activity Model (P24)"
+            }
+          },
+          {
+            "id": "a26442708afb4478",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ada0d93cde7ab5d7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ISA-95-3 – Activity Model (P24).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of ISA-95-3 – Activity Model (P24)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "better-recall:Open decks": false
+    }
+  },
+  "active": "119673feb4c4616c",
+  "lastOpenFiles": [
+    "ISA-95 Part 3 - Section 6.6 Detailed Production Scheduling.md",
+    "Open Questions - ISA-95 Mapping.md",
+    "ISA-95-3 – Activity Model (P24).md",
+    "ISA-95 Part 3 - Section 6.4.3 Tasks in Product Definition Management.md",
+    "Understanding ISA-95 Activity Model.md",
+    "System Architecture Overview.md",
+    "ISA-95 Part 3 Activity Model Reference.md",
+    "ISA-95 Activity Model - Page Organization.md",
+    "Part3/Understanding ISA-95 Activity Model.md",
+    "Part3/ISA-95-3 – Activity Model (P24).md",
+    "FES Decomposition Strategy.md",
+    "Information Flows – Enterprise ↔ Control  (ISA-95 Part 3 §6 & Figure 6).md",
+    "L4 Systems Architecture Analysis.md",
+    "ISA-95 Roles vs Locations.md",
+    "test-file.md",
+    "images",
+    "tracked_files.json",
+    "2025-06-13.md",
+    "Untitled.canvas",
+    "images/Pasted image 20250613134715.png",
+    "Welcome.md",
+    "Part3"
+  ]
+}
