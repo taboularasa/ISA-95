@@ -2,7 +2,7 @@
 ISA-95 deliberately **decouples “who does what” (roles) from “where they sit”**
 in the Purdue hierarchy.  Figure 6 reminds us that the **eight production
 activity roles** are purely functional – they *“define what is done, not how it
-should be organized”*  [oai_citation:5‡S_950003_62264_3_pdf.pdf](file-service://file-EvNgoVSnSuVbBHSqhDqddb).
+should be organized”* 
 
 ## 1  Core production roles
 
@@ -13,7 +13,7 @@ should be organized”*  [oai_citation:5‡S_950003_62264_3_pdf.pdf](file-servic
 5. Production execution management  
 6. Production data collection  
 7. Production tracking  
-8. Production performance analysis  [oai_citation:6‡S_950003_62264_3_pdf.pdf](file-service://file-EvNgoVSnSuVbBHSqhDqddb)
+8. Production performance analysis
 
 *These map one-to-one with the eight generic “Level-3” functions in Part 1.*
 
@@ -28,7 +28,7 @@ should be organized”*  [oai_citation:5‡S_950003_62264_3_pdf.pdf](file-servic
 | **Equipment** | reactors, conveyors, PLCs |
 
 > *“Work center” is defined generically so it can be a process cell,
-> production unit, line, or even a storage zone*  [oai_citation:7‡S_950003_62264_3_pdf.pdf](file-service://file-EvNgoVSnSuVbBHSqhDqddb).
+> production unit, line, or even a storage zone
 
 ## 3  Assigning roles to locations   (illustrative matrix)
 

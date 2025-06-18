@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ffeb29f308ce5681",
+        "id": "81151091afb319c4",
         "type": "tabs",
         "children": [
           {
-            "id": "119673feb4c4616c",
+            "id": "a4cd8e0ca16518c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 587.5
   },
   "right": {
     "id": "7b0e9d1c508b9205",
@@ -150,8 +150,19 @@
               "icon": "lucide-list",
               "title": "Outline of ISA-95-3 – Activity Model (P24)"
             }
+          },
+          {
+            "id": "58a5931326c74e78",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -166,32 +177,43 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "better-recall:Open decks": false
+      "better-recall:Open decks": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "119673feb4c4616c",
+  "active": "a4cd8e0ca16518c3",
   "lastOpenFiles": [
+    "ISA-95 Part 3 - Section 6.7 Production Dispatching.md",
     "ISA-95 Part 3 - Section 6.6 Detailed Production Scheduling.md",
+    "ISA-95 Part 3 - Section 6.5 Production Resource Management.md",
+    "ISA-95 Part 3 - Section 6.4.3 Tasks in Product Definition Management.md",
+    "ISA-95 Activity Model - Page Organization.md",
+    "System Architecture Overview.md",
+    "Understanding ISA-95 Activity Model.md",
+    "ISA-95 Part 3 Activity Model Reference.md",
+    "ISA-95 Study/README.md",
+    "ISA-95 Study/Flashcards - Levels and Hierarchy.md",
+    "ISA-95 Study/Flashcards - Activity Model Concepts.md",
+    "ISA-95 Study/Flashcards - Roles vs Locations.md",
+    "ISA-95 Study/Flashcards - Detailed Production Scheduling.md",
+    "ISA-95 Study/Flashcards - Information Flows.md",
+    "ISA-95 Study/Flashcards - Eight Generic Activity Functions.md",
+    "ISA-95 Study/Flashcard Creation Guide.md",
+    "ISA-95 Study/Flashcards - Part 3 Product Definition Management.md",
+    "ISA-95 Study/TMS and Production Dispatching Mapping.md",
+    "ISA-95 Study",
+    "Untitled.canvas",
+    "ISA-95 Roles vs Locations.md",
     "Open Questions - ISA-95 Mapping.md",
     "ISA-95-3 – Activity Model (P24).md",
-    "ISA-95 Part 3 - Section 6.4.3 Tasks in Product Definition Management.md",
-    "Understanding ISA-95 Activity Model.md",
-    "System Architecture Overview.md",
-    "ISA-95 Part 3 Activity Model Reference.md",
-    "ISA-95 Activity Model - Page Organization.md",
     "Part3/Understanding ISA-95 Activity Model.md",
     "Part3/ISA-95-3 – Activity Model (P24).md",
     "FES Decomposition Strategy.md",
     "Information Flows – Enterprise ↔ Control  (ISA-95 Part 3 §6 & Figure 6).md",
     "L4 Systems Architecture Analysis.md",
-    "ISA-95 Roles vs Locations.md",
-    "test-file.md",
     "images",
     "tracked_files.json",
-    "2025-06-13.md",
-    "Untitled.canvas",
     "images/Pasted image 20250613134715.png",
-    "Welcome.md",
     "Part3"
   ]
 }

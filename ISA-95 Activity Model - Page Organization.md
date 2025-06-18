@@ -2,7 +2,7 @@
 
 ## Page Separation Strategy
 
-### 1. ISA-95 Part 3 Activity Model Reference
+### 1. [ISA-95 Part 3 Activity Model Reference](obsidian://open?vault=ISA-95&file=ISA-95%20Part%203%20Activity%20Model%20Reference)
 **Purpose**: The canonical reference - just the facts from the standard
 - Lists the 8 activities exactly as defined in ISA-95
 - Shows Figure 6 from the standard
@@ -11,7 +11,7 @@
 
 **This is the "WHAT" page**
 
-### 2. Understanding ISA-95 Activity Model  
+### 2. [Understanding ISA-95 Activity Model](obsidian://open?vault=ISA-95&file=Understanding%20ISA-95%20Activity%20Model)
 **Purpose**: Conceptual understanding and intuition
 - Explains WHY activities matter
 - HOW to think about activities vs systems
@@ -21,7 +21,7 @@
 
 **This is the "WHY and HOW TO THINK" page**
 
-### 3. System Architecture Overview (Activity Model Mapping section)
+### 3. [System Architecture Overview (Activity Model Mapping section)](obsidian://open?vault=ISA-95&file=System%20Architecture%20Overview)
 **Purpose**: Our specific implementation
 - Maps each activity to our actual systems
 - Shows gaps and overlaps
